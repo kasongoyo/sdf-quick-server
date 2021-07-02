@@ -17,6 +17,6 @@
     "dotenv": "^8.2.0",
     "http-errors": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "stellar-sdk": "^5.0.3"
+    "stellar-sdk": "^8.2.3"
   }
 }
